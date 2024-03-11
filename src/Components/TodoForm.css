@@ -1,0 +1,21 @@
+.add-todo-button {
+  padding: 8px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(
+    16,
+    143,
+    202
+  ); /* Change button background color to red */
+  color: rgb(14, 2, 2);
+  cursor: pointer;
+}
+
+.add-todo-button:hover {
+  background-color: rgb(
+    44,
+    14,
+    153
+  ); /* Change button hover background color to a darker shade of red */
+}
